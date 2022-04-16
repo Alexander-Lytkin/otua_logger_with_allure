@@ -1,1 +1,1 @@
-# otua_logger_with_allure
+# otus_logger_with_allure
